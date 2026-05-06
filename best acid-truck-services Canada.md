@@ -1,8 +1,6 @@
 # Acid Truck Services in Modern Oilfield Operations
-
-<img width="720" height="480" alt="Acid truck services" src="https://github.com/user-attachments/assets/9f979e7f-ab3d-47db-9ea4-bfaa4642bb65" />
-
 Learn how acid truck services support safe fluid hauling, operations, and compliance in Alberta oilfields with practical insights and field tips.
+<img width="720" height="480" alt="Acid truck services" src="https://github.com/user-attachments/assets/9f979e7f-ab3d-47db-9ea4-bfaa4642bb65" />
 
 ## Related Resource
 [Best Acid Truck Services in Canada](https://example.com/best-acid-truck-services-canada)
