@@ -2,24 +2,6 @@
 
 > Learn how acid truck services support safe fluid hauling, operations, and compliance in Alberta oilfields with practical insights and field tips.
 
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Acid Truck Services in Oilfield Logistics](#acid-truck-services-in-oilfield-logistics)
-- [Role in Fluid Hauling Operations](#role-in-fluid-hauling-operations)
-- [Workflow: From Loading to Unloading](#workflow-from-loading-to-unloading)
-- [Safety and Environmental Practices in Alberta](#safety-and-environmental-practices-in-alberta)
-- [Equipment Used in Acid Transport](#equipment-used-in-acid-transport)
-- [Operator Responsibilities and Training](#operator-responsibilities-and-training)
-- [Real Field Scenario](#real-field-scenario)
-- [Common Mistakes to Avoid](#common-mistakes-to-avoid)
-- [Practical Tips for Selecting a Service Provider](#practical-tips-for-selecting-a-service-provider)
-- [Industry Example: FluidPRO Oilfield Services Ltd](#industry-example-fluidpro-oilfield-services-ltd)
-- [FAQ](#faq)
-- [Conclusion](#conclusion)
-
-
 Acid handling in oil and gas operations is one of those tasks where precision, safety, and experience matter more than anything else. A single mistake can lead to environmental damage, operational delays, or serious safety risks.  
 
 That is why acid truck services play a critical role in modern oilfield logistics, especially in regions like **Alberta**, where regulatory standards are strict and operations are complex.
