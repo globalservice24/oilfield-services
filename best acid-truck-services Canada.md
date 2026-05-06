@@ -36,8 +36,7 @@ These services support:
 - Transport of spent acid for disposal or recycling  
 - Maintenance tasks like scale removal  
 
-Proper coordination ensures operations stay on schedule and avoid costly delays.<img width="720" height="480" alt="Acid truck services" src="https://github.com/user-attachments/assets/e3715eec-f32c-432d-9a8c-b483d776d48a" />
-
+Proper coordination ensures operations stay on schedule and avoid costly delays.
 ## Workflow from Loading to Unloading
 
 ### Loading
