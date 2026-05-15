@@ -3,7 +3,7 @@ Learn how acid truck services support safe fluid hauling, operations, and compli
 <img width="720" height="480" alt="Acid truck services" src="https://github.com/user-attachments/assets/9f979e7f-ab3d-47db-9ea4-bfaa4642bb65" />
 
 ## Related Resource
-[Best Acid Truck Services in Canada](https://example.com/best-acid-truck-services-canada)
+[Best Acid Truck Services in Canada](https://best-acid-truck-services-canada)
 
 
 Acid handling in oil and gas operations is one of those tasks where precision, safety, and experience matter more than anything else. A single mistake can lead to environmental damage, operational delays, or serious safety risks.  
